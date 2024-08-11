@@ -14,14 +14,14 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jsusvalle/mern-eCommerce.git"
+    "url": "git+https://github.com/magicdragon1101-ravi/mern-eCommerce.git"
   },
   "author": "Jesus Valle",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jsusvalle/mern-eCommerce/issues"
+    "url": "https://github.com/magicdragon1101-ravi/mern-eCommerce/issues"
   },
-  "homepage": "https://github.com/jsusvalle/mern-eCommerce#readme",
+  "homepage": "https://github.com/magicdragon1101-ravi/mern-eCommerce#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
