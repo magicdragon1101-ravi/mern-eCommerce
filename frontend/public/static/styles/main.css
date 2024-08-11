@@ -7,18 +7,18 @@
 /* Stop purging. */
 
 .custom-container {
-    @apply px-10;
-    @apply mx-auto;
+  @apply px-10;
+  @apply mx-auto;
 }
 @screen mv {
-    .custom-container {
-        @apply px-12;
-    }
+  .custom-container {
+    @apply px-12;
+  }
 }
 @screen sm {
-    .custom-container {
-        @apply px-16;
-    }
+  .custom-container {
+    @apply px-16;
+  }
 }
 
 /* Start purging... */
